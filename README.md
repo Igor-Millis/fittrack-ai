@@ -10,6 +10,8 @@ confira o rascunho calculado e confirme — tudo fica num banco SQLite **no seu 
 - 🔒 Sem nuvem, sem assinatura, sem APIs pagas; dados pessoais nunca saem da máquina
 - ✅ 137 testes automatizados (unitários, integração com SQLite, interface via `AppTest` e Ollama real opcional)
 
+📝 Artigo sobre as decisões do projeto: [FitTrack AI: um diário nutricional com IA que não inventa números](https://igor-millis.github.io/pt/research/fittrack-ai/) ([EN](https://igor-millis.github.io/research/fittrack-ai/))
+
 > ⚠️ Valores nutricionais e gasto energético são **estimativas** (tabelas e equações populacionais).
 > O FitTrack AI não faz diagnóstico e não substitui nutricionista ou médico.
 
@@ -263,6 +265,8 @@ páginas (Streamlit `AppTest`), incluindo um registro completo pelo chat da inte
 - Mais medidas caseiras com fonte documentada (ex.: POF/IBGE).
 - Refeições favoritas ("repetir o café de ontem").
 - Tema escuro dedicado.
+- Demonstração pública: `deploy/huggingface/` tem Dockerfile e cabeçalho prontos para um Space Docker com dados
+  fictícios (copie os dois arquivos para a raiz do Space). Hoje Spaces Docker em CPU gratuita exigem assinatura PRO.
 
 ---
 Feito com Python e cuidado com seus dados. Contribuições são bem-vindas.
