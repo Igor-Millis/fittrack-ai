@@ -1,0 +1,116 @@
+alias;taco_id;priority
+arroz;3;10
+arroz branco;3;10
+arroz cozido;3;10
+arroz integral;1;10
+feijao;561;10
+feijao carioca;561;10
+feijao preto;567;10
+frango;410;5
+peito de frango;410;10
+file de frango;410;10
+frango grelhado;410;10
+peito de frango grelhado;410;10
+peito de frango cozido;408;10
+frango cozido;408;8
+coxa de frango;398;8
+sobrecoxa;413;8
+pao;53;5
+pao frances;53;10
+pao de sal;53;10
+pao de forma;52;5
+pao de forma integral;52;10
+pao integral;52;8
+pao de queijo;140;10
+ovo;488;10
+ovo cozido;488;10
+ovo frito;490;10
+ovo mexido;490;5
+clara de ovo;486;10
+banana;182;10
+banana prata;182;10
+banana nanica;179;10
+banana maca;178;10
+maca;222;10
+abacate;163;10
+iogurte;448;10
+iogurte natural;448;10
+iogurte desnatado;449;10
+queijo;463;3
+mussarela;463;10
+mucarela;463;10
+queijo mussarela;463;10
+queijo minas;461;10
+queijo prato;467;10
+parmesao;464;10
+requeijao;468;10
+ricota;469;10
+carne moida;326;10
+patinho;377;10
+alcatra;370;10
+contra file;346;10
+file mignon;358;10
+picanha;381;10
+batata;91;8
+batata cozida;91;10
+batata doce;88;10
+batata frita;93;10
+mandioca;129;8
+aipim;129;8
+macaxeira;129;8
+aveia;7;10
+azeite;260;10
+azeite de oliva;260;10
+oleo;272;8
+oleo de soja;272;10
+manteiga;261;10
+acucar;494;10
+acucar mascavo;493;10
+mel;507;10
+cafe;471;10
+cafe preto;471;10
+cha;477;5
+cha mate;476;10
+tapioca;551;5
+cuscuz;533;8
+laranja;214;10
+suco de laranja;215;10
+mamao;226;8
+mamao papaia;226;10
+morango;239;10
+uva;256;8
+melancia;235;10
+melao;236;10
+abacaxi;164;10
+manga;231;8
+kiwi;207;10
+goiaba;200;8
+tomate;157;10
+alface;78;8
+brocolis;100;8
+cenoura;110;5
+cenoura cozida;109;10
+beterraba;98;5
+pepino;142;10
+atum;277;8
+sardinha;319;8
+salmao;317;8
+camarao;284;8
+presunto;439;8
+amendoim;558;8
+castanha de caju;588;10
+castanha do para;589;10
+chocolate;495;5
+lentilha;577;10
+grao de bico;575;5
+tofu;584;10
+macarrao;40;3
+leite condensado;453;10
+refrigerante;480;5
+coca cola;480;8
+guarana;481;8
+cerveja;474;10
+agua de coco;478;10
+hamburguer;417;8
+lombo;432;8
+pernil;435;8

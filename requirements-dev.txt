@@ -1,0 +1,2 @@
+-r requirements.txt
+pdfplumber>=0.11  # apenas para reextrair a TACO do PDF oficial (scripts/extract_taco_pdf.py)

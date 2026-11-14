@@ -1,0 +1,23 @@
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.env
+
+# Dados pessoais — NUNCA versionar
+data/*.db
+data/*.db-*
+data/backups/*
+!data/backups/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+data/logs/
+
+# PDF oficial da TACO (baixe com as instruções do README para reextrair)
+data/nutrition/raw/
+
+.claude/
+.DS_Store
+Thumbs.db
